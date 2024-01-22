@@ -69,7 +69,7 @@ class AboutController : SettingsController() {
                 val intent = Intent(
                     Intent.ACTION_VIEW,
                     if (BuildConfig.DEBUG) {
-                        "https://github.com/Jays2Kings/tachiyomiJ2K/commits/master"
+                        "https://github.com/herfnem/tachiyomiJ2K/commits/master"
                     } else {
                         RELEASE_URL
                     }.toUri(),
