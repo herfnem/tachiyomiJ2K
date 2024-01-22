@@ -54,7 +54,7 @@ class AboutLinksPreference @JvmOverloads constructor(context: Context, attrs: At
         }
         holder.findViewById(R.id.btn_github).apply {
             compatToolTipText = (contentDescription.toString())
-            setOnClickListener { context.openInBrowser("https://github.com/Jays2Kings/tachiyomiJ2K") }
+            setOnClickListener { context.openInBrowser("https://github.com/herfnem/tachiyomiJ2K") }
         }
         holder.findViewById(R.id.btn_tachiyomi).apply {
             compatToolTipText = (contentDescription.toString())
