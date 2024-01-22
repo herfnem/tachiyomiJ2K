@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:822770527911:android:2ef352cdb1e9dc695a7582",
         "android_client_info": {
-          "package_name": "eu.kanade.tachiyomi.debugJ2K"
+          "package_name": "eu.kanade.tachiyomi.debugCat"
         }
       },
       "oauth_client": [
@@ -39,7 +39,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:822770527911:android:6a6b549297ff51a85a7582",
         "android_client_info": {
-          "package_name": "eu.kanade.tachiyomi.j2k"
+          "package_name": "eu.kanade.tachiyomi.cat"
         }
       },
       "oauth_client": [

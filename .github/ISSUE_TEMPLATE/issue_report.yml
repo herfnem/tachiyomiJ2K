@@ -1,8 +1,7 @@
 name: 🐞 Issue report
-description: Report an issue or bug in TachiyomiJ2K
+description: Report an issue or bug in TachiyomiH+
 labels: [bug]
 body:
-
   - type: textarea
     id: reproduce-steps
     attributes:
@@ -50,8 +49,8 @@ body:
   - type: input
     id: tachiyomi-version
     attributes:
-      label: TachiyomiJ2K version
-      description: You can find your TachiyomiJ2K version in **More → About**.
+      label: TachiyomiH+ version
+      description: You can find your TachiyomiH+ version in **More → About**.
       placeholder: |
         Example: "1.5.8"
     validations:
